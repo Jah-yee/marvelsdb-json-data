@@ -166,7 +166,7 @@
     {
         "code": "58031",
         "name": "Cameo",
-        "text": "Preparación. Máximo de 1 por mazo.\n<b>Preparación</b>: busca en tu colección un Aliado específico de un Superhéroe que np esté presente en la partida. Añade ese Aliado a tu mazo y barájalo. Descarta 2 cartas de tu mano y retira esta carta de la partida."
+        "text": "Inicio. Máximo de 1 por mazo.\n<b>Preparación</b>: busca en tu colección un Aliado específico de un Superhéroe que no esté presente en la partida. Añade ese Aliado a tu mazo y barájalo. Descarta 2 cartas de tu mano y retira esta carta de la partida."
     },
     {
         "code": "58032",
