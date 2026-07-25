@@ -1474,5 +1474,25 @@
 	{
 		"code": "all_versus_all",
 		"name": "Todos contra todos"
+	},
+	{
+		"code": "daredevil",
+		"name": "Daredevil"
+	},
+	{
+		"code": "daredevil_sense_deck",
+		"name": "Sense Deck"
+	},
+	{
+		"code": "daredevil_nemesis",
+		"name": "Archienemigo de Daredevil"
+	},
+	{
+		"code": "echo",
+		"name": "Eco"
+	},
+	{
+		"code": "echo_nemesis",
+		"name": "Archienemigo de Eco"
 	}
 ]
